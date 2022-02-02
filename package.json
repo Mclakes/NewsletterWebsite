@@ -1,0 +1,14 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "This is a newsletter app",
+  "main": "app.js",
+ 
+  "author": "Bankole Olalekan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "request": "^2.88.2"
+  }
+}
